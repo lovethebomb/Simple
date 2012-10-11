@@ -15,6 +15,13 @@
 		BB4D5D581626AE990005B9DC /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = BB4D5D571626AE990005B9DC /* AppDelegate.m */; };
 		BB4D5D5B1626AE990005B9DC /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BB4D5D5A1626AE990005B9DC /* ViewController.m */; };
 		BB4D5D5E1626AE990005B9DC /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = BB4D5D5C1626AE990005B9DC /* ViewController.xib */; };
+		BB4D5D731626BEA60005B9DC /* arcenciel.png in Resources */ = {isa = PBXBuildFile; fileRef = BB4D5D6E1626BEA60005B9DC /* arcenciel.png */; };
+		BB4D5D741626BEA60005B9DC /* mousse.png in Resources */ = {isa = PBXBuildFile; fileRef = BB4D5D6F1626BEA60005B9DC /* mousse.png */; };
+		BB4D5D751626BEA60005B9DC /* pirate.png in Resources */ = {isa = PBXBuildFile; fileRef = BB4D5D701626BEA60005B9DC /* pirate.png */; };
+		BB4D5D761626BEA60005B9DC /* plage.png in Resources */ = {isa = PBXBuildFile; fileRef = BB4D5D711626BEA60005B9DC /* plage.png */; };
+		BB4D5D771626BEA60005B9DC /* sable.png in Resources */ = {isa = PBXBuildFile; fileRef = BB4D5D721626BEA60005B9DC /* sable.png */; };
+		BB4D5D791626C4000005B9DC /* pirate-cat.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BB4D5D781626C4000005B9DC /* pirate-cat.jpg */; };
+		BB4D5D7B1626D0E90005B9DC /* cat-big-teeth.png in Resources */ = {isa = PBXBuildFile; fileRef = BB4D5D7A1626D0E90005B9DC /* cat-big-teeth.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +38,13 @@
 		BB4D5D591626AE990005B9DC /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		BB4D5D5A1626AE990005B9DC /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		BB4D5D5D1626AE990005B9DC /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		BB4D5D6E1626BEA60005B9DC /* arcenciel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = arcenciel.png; sourceTree = "<group>"; };
+		BB4D5D6F1626BEA60005B9DC /* mousse.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mousse.png; sourceTree = "<group>"; };
+		BB4D5D701626BEA60005B9DC /* pirate.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pirate.png; sourceTree = "<group>"; };
+		BB4D5D711626BEA60005B9DC /* plage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = plage.png; sourceTree = "<group>"; };
+		BB4D5D721626BEA60005B9DC /* sable.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sable.png; sourceTree = "<group>"; };
+		BB4D5D781626C4000005B9DC /* pirate-cat.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "pirate-cat.jpg"; sourceTree = "<group>"; };
+		BB4D5D7A1626D0E90005B9DC /* cat-big-teeth.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cat-big-teeth.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,6 +64,7 @@
 		BB4D5D381626AE990005B9DC = {
 			isa = PBXGroup;
 			children = (
+				BB4D5D7A1626D0E90005B9DC /* cat-big-teeth.png */,
 				BB4D5D4D1626AE990005B9DC /* Simple */,
 				BB4D5D461626AE990005B9DC /* Frameworks */,
 				BB4D5D441626AE990005B9DC /* Products */,
@@ -82,6 +97,12 @@
 				BB4D5D591626AE990005B9DC /* ViewController.h */,
 				BB4D5D5A1626AE990005B9DC /* ViewController.m */,
 				BB4D5D5C1626AE990005B9DC /* ViewController.xib */,
+				BB4D5D6E1626BEA60005B9DC /* arcenciel.png */,
+				BB4D5D6F1626BEA60005B9DC /* mousse.png */,
+				BB4D5D701626BEA60005B9DC /* pirate.png */,
+				BB4D5D711626BEA60005B9DC /* plage.png */,
+				BB4D5D721626BEA60005B9DC /* sable.png */,
+				BB4D5D781626C4000005B9DC /* pirate-cat.jpg */,
 				BB4D5D4E1626AE990005B9DC /* Supporting Files */,
 			);
 			path = Simple;
@@ -151,6 +172,13 @@
 			files = (
 				BB4D5D521626AE990005B9DC /* InfoPlist.strings in Resources */,
 				BB4D5D5E1626AE990005B9DC /* ViewController.xib in Resources */,
+				BB4D5D731626BEA60005B9DC /* arcenciel.png in Resources */,
+				BB4D5D741626BEA60005B9DC /* mousse.png in Resources */,
+				BB4D5D751626BEA60005B9DC /* pirate.png in Resources */,
+				BB4D5D761626BEA60005B9DC /* plage.png in Resources */,
+				BB4D5D771626BEA60005B9DC /* sable.png in Resources */,
+				BB4D5D791626C4000005B9DC /* pirate-cat.jpg in Resources */,
+				BB4D5D7B1626D0E90005B9DC /* cat-big-teeth.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
